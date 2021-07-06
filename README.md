@@ -36,6 +36,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 
 ## Multi Language / Multi Lingual
 
+- [**Multiple languages**](https://github.com/kurtsson/jekyll-multiple-languages-plugin) ★764 (gem: [jekyll-multiple-languages-plugin](https://rubygems.org/gems/jekyll-multiple-languages-plugin)) by Martin Kurtsson -- I18n support for Jekyll and Octopress
 - [**Language**](https://github.com/vwochnik/jekyll-language-plugin) ★100 (gem: [jekyll-language-plugin](https://rubygems.org/gems/jekyll-language-plugin)) by Vincent Wochnik -- multi-language plugin for posts, pages and includes
 - [**Polyglot**](https://github.com/untra/polyglot) ★36 (gem: [`jekyll-polyglot`](https://rubygems.org/gems/jekyll-polyglot)) by Samuel Volin -- multi-lingual and I18n support tool
 - [**i18n Tags**](https://github.com/KrzysiekJ/jekyll-i18n_tags) ★1 (gem: [jekyll-i18n_tags](https://rubygems.org/gems/jekyll-i18n_tags)) -- Translate your templates.
@@ -84,7 +85,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 
 ## Images & Pictures
 
-- [**Picture Tag**](https://github.com/robwierzbowski/jekyll-picture-tag) ★296 (gem: [jekyll-picture-tag](https://rubygems.org/gems/jekyll-picture-tag)) -- Easy responsive images for Jekyll. Based on the proposed `<picture>` element, polyfilled with Scott Jehl's Picturefill.
+- [**Picture Tag**](https://github.com/rbuchberger/jekyll_picture_tag) ★540 (gem: [jekyll_picture_tag](https://rubygems.org/gems/jekyll_picture_tag)) -- Easy responsive images for Jekyll. Based on the proposed `<picture>` element, polyfilled with Scott Jehl's Picturefill.
 - [**Responsive Image**](https://github.com/wildlyinaccurate/jekyll-responsive-image) ★36 (gem: [jekyll-responsive_image](https://rubygems.org/gems/jekyll-responsive_image)) -- Responsive images for Jekyll. Automatically resizes images, supports all responsive methods (`<picture>`, `srcset`, Imager.js, etc), super-flexible configuration.
 - [**Image Encode Tag**](https://github.com/GSI/jekyll_image_encode) ★8 (gem: [jekyll_image_encode](https://rubygems.org/gems/jekyll_image_encode)) -- tag that renders base64 codes of images fetched from the web.
 - [**Cloudinary**](https://github.com/nhoizey/jekyll-cloudinary) ★48 (gem: [jekyll-cloudinary](https://rubygems.org/gems/jekyll-cloudinary)) by Nicolas Hoizey -- tag to use Cloudinary for optimized responsive posts images.
@@ -160,6 +161,8 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 - [**Jekyll oEmbed**](https://github.com/18F/jekyll-oembed) (gem: [jekyll_oembed](https://rubygems.org/gems/jekyll_oembed)) -- The tag version of [ruby-oembed](https://github.com/ruby-oembed/ruby-oembed), letting you easily get embeddable HTML representations of supported web pages, based on their URLs.
 - [**Jekyll PDF Embed**](https://github.com/MihajloNesic/jekyll-pdf-embed) ★3 (gem: [jekyll-pdf-embed](https://rubygems.org/gems/jekyll-pdf-embed)) - Plugin for embedding PDF files to any page or post
 - [**Jekyll Github Chart**](https://github.com/kinduff/jekyll-github-chart) (gem: [jekyll-github-chart](https://rubygems.org/gems/jekyll-github-chart)) - Plugin to generate an SVG of Github contributions data
+- [**Jekyll Twitch**](https://github.com/chaelcodes/jekyll-twitch) (gem: [jekyll-twitch](https://rubygems.org/gems/jekyll-twitch)) - Embed Twitch clips, vods, collections, and even broadcasts!
+- [**Jekyll Include**](https://github.com/flant/jekyll_include_plugin) ★4 (gem: [jekyll_include_plugin](https://rubygems.org/gems/jekyll_include_plugin)) - Plugin for including local/remote file contents (or a part of it) into your pages.
 
 
 ## Search Engine Optimization (SEO) & Redirects
@@ -199,7 +202,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 ## Other
 
 - [**GitHub Metadata**](https://github.com/jekyll/github-metadata) ★39 (gem: [jekyll-github-metadata](https://rubygems.org/gems/jekyll-github-metadata)) -- `site.github`   **#Official** **#GitHub Pages**
-- [**Jekyll Spaceship**](https://github.com/jeffreytse/jekyll-spaceship) ★102 (gem: [jekyll-spaceship](https://rubygems.org/gems/jekyll-spaceship)) -- 🚀 A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, mermaid, emoji, video, youtube, vimeo, dailymotion, audio, spotify, soundcloud, etc.
+- [**Jekyll Spaceship**](https://github.com/jeffreytse/jekyll-spaceship) ★258 (gem: [jekyll-spaceship](https://rubygems.org/gems/jekyll-spaceship)) -- 🚀 A Jekyll plugin to provide powerful supports for table, mathjax, plantuml, mermaid, emoji, video, youtube, vimeo, dailymotion, audio, spotify, soundcloud, etc.
 - [**Rendering**](https://github.com/prometheus-ev/jekyll-rendering) ★14 (gem: [jekyll-rendering](https://rubygems.org/gems/jekyll-rendering)) -- provide alternative rendering engines.
 - [**Contentful**](https://github.com/contentful/jekyll-contentful-data-import) ★15 (gem: [jekyll-contentful-data-import](https://rubygems.org/gems/jekyll-contentful-data-import)) -- Adds a `contentful` sub-command to Jekyll to import data from Contentful.
 - [**Paspagon**](https://github.com/KrzysiekJ/jekyll-paspagon) ★2 (gem: [jekyll-paspagon](https://rubygems.org/gems/jekyll-paspagon)) -- sell your posts in various formats for cryptocurrencies.
@@ -249,7 +252,7 @@ See the [Official Plugins Page @ Jekyll Docs](http://jekyllrb.com/docs/plugins) 
 
 ## Upload & Deploy
 
-- [**Jekyll Deploy Action**](https://github.com/jeffreytse/jekyll-deploy-action) ★18 ([jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action)) -- 🪂  A Github Action to deploy the Jekyll site conveniently for GitHub Pages.
+- [**Jekyll Deploy Action**](https://github.com/jeffreytse/jekyll-deploy-action) ★90 ([jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action)) -- 🪂  A Github Action to deploy the Jekyll site conveniently for GitHub Pages.
 - [**Deploy**](https://github.com/vwochnik/jekyll-deploy) ★9 (gem: [jekyll-deploy](https://rubygems.org/gems/jekyll-deploy)) -- adds a `deploy` command
 
 ## Debugging
